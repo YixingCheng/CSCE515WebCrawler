@@ -24,7 +24,7 @@ class CrawlerDb:
                                    Column('url', String, nullable=False),
                                    Column('has_crawled', Boolean, default=False),
                                    Column('emails', String, nullable=True),
-        )
+                                   )
 
         # Create the tables
         self.metadata.create_all(self.engine)
@@ -43,13 +43,12 @@ class CrawlerDb:
             return False
 
         args = [{'url': unicode(url)}]
-        if (emails != None):
+        if emails is not None:
             args = [{'url': unicode(url), 'has_crawled': True, 'emails': unicode(",".join(emails))}]
         result = self.connection.execute(self.website_table.insert(), args)
         if result:
             return True
         return False
-
 
     def dequeue(self):
         if not self.connected:
@@ -70,7 +69,6 @@ class CrawlerDb:
             return result[0]
         return False
 
-
     def crawled(self, website, new_emails=None):
         if not self.connected:
             return False
@@ -78,7 +76,6 @@ class CrawlerDb:
             .where(self.website_table.c.id == website.id) \
             .values(has_crawled=True, emails=new_emails)
         self.connection.execute(stmt)
-
 
     def get_all_emails(self):
         if not self.connected:
@@ -90,7 +87,7 @@ class CrawlerDb:
         res.close()
         email_set = set()
         for result in results:
-            if (result.emails == None):
+            if result.emails is None:
                 continue
             for email in result.emails.split(','):
                 email_set.add(email)
@@ -107,7 +104,7 @@ class CrawlerDb:
         res.close()
         domain_set = set()
         for result in results:
-            if (result.url == None):
+            if result.url is None:
                 continue
             url = urlparse.urlparse(result.url)
             hostname = url.hostname.split(".")
@@ -117,17 +114,14 @@ class CrawlerDb:
 
         return domain_set
 
-
     def close(self):
         self.connection.close()
-
 
     def save_html(filename, html):
         filename = os.path.join(HTML_DIR, filename)
         file = open(filename, "w+")
         file.writelines(html)
         file.close()
-
 
     def test(self):
         c = CrawlerDb()
@@ -143,4 +137,4 @@ class CrawlerDb:
         print '---'
         c.dequeue()  # CrawlerDb().test()
 
-# CrawlerDb().test()
+#CrawlerDb().test()
