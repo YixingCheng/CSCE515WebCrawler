@@ -1,0 +1,51 @@
+[2014-10-26 14:52:09,663] INFO::(P:30211 T:140318346016576)::web_crawler - ----------------------------------------
+[2014-10-26 14:52:09,663] INFO::(P:30211 T:140318346016576)::web_crawler - Keywords to Google for: coherence
+[2014-10-26 14:52:09,663] INFO::(P:30211 T:140318346016576)::web_crawler - ----------------------------------------
+[2014-10-26 14:52:09,664] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=0
+[2014-10-26 14:52:12,539] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=1
+[2014-10-26 14:52:13,993] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=2
+[2014-10-26 14:52:16,004] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=3
+[2014-10-26 14:52:17,524] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=4
+[2014-10-26 14:52:19,272] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=5
+[2014-10-26 14:52:20,990] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=6
+[2014-10-26 14:52:22,768] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=7
+[2014-10-26 14:52:25,233] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=8
+[2014-10-26 14:52:27,517] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=9
+[2014-10-26 14:52:29,322] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=10
+[2014-10-26 14:52:31,009] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=11
+[2014-10-26 14:52:32,683] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=12
+[2014-10-26 14:52:34,286] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=13
+[2014-10-26 14:52:36,537] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=14
+[2014-10-26 14:52:38,091] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=15
+[2014-10-26 14:52:39,664] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=16
+[2014-10-26 14:52:41,447] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=17
+[2014-10-26 14:52:44,247] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=18
+[2014-10-26 14:52:45,881] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.google.com/search?q=coherence&start=19
+[2014-10-26 14:52:47,705] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/title/tt2866360/
+[2014-10-26 14:52:50,401] INFO::(P:30211 T:140318346016576)::web_crawler - No email at level 1.. proceeding to crawl level 2
+[2014-10-26 14:52:50,403] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://ad.doubleclick.net/N4215/jump/imdb2.consumer.title/maindetails;tile=1;sz=728x90,1008x150,1008x200,1008x30,970x250,1008x400,9x1;p=top;p=t;g=sf;g=th;tt=f;coo=us;fv=1;id=tt2866360;ab=b;bpx=1;md=tt2866360;c=1;ord=071560410224?
+[2014-10-26 14:52:53,203] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/list/checkins
+[2014-10-26 14:52:56,031] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-twt&token=BCYlJfDxhHQyI_u10t9hEbL407fml_c2FqH1_RCFYunxYBqBvhEOShu8BrXWeUJ6risX7Yn8l_Fl%0D%0AwvPdeRVcN0BYZxtBYdz3P7o_xRISsQOmKpYzFfVekBCE-dhRit7BsmPQGWrIm3-EefkNX5H1up9A%0D%0A8IfSHZVeB6RO8_syppdUuks%0D%0A
+[2014-10-26 14:53:04,551] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/title/tt2343793/vote?v=X;k=
+[2014-10-26 14:53:06,933] ERROR::(P:30211 T:140318346016576)::web_crawler - Exception at url: http://www.imdb.com/title/tt2343793/vote?v=X;k=
+HTTP Error 403: Forbidden
+[2014-10-26 14:53:06,933] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-amzn-dpr&token=BCYjaQIdR87mOKfftdchGpwauTr07i9Wqs5gk-e-_82VPEnwFp-OanYdXG45kH3zlBYlQTHE_kJs%0D%0Aa3EPFzw-5qYjMX1F6cMI23YId5uUyYSR8h_mFhbX0eH1upe59AlxL3hcYlXWwUZHUZg1PeRkxCW8%0D%0A_DJbYiWByS61en9K2LFD5zDpHRGmEVuQdLxdo6uV5kPi%0D%0A
+[2014-10-26 14:53:10,853] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=imdb&token=BCYoe0dreHjRzNQRBKGFtbMNAUcduB04q3k1awY8W9G5-nc-Yh3d7MSYHjM-weEddUJxNwU3Webk%0D%0AEO6_T_Uk2o4ZBznZBSa5gNQSQkXn-h7ogcX4VeHxP9lO192MBNiWhusl9OUPVsYoEX5dmYm0AY_p%0D%0A5X7nem2Nz8A1TN83MzxKTei-XEV0Sn_zDcXHfR54nqmIQeBN9FHC9xhPLmVGPIoSK9wFXOxBZtnm%0D%0ArQj0PqYwtY8xR7SNcRUdxOQF0LfID7MwD6yr3A5vrTLKyn1o5AuVdg2ne2PW-caiFmmBpc8Z8Jc%0D%0A&ref_=tt_msg_ov
+[2014-10-26 14:53:18,169] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/title/tt2319580/vote?v=X;k=
+[2014-10-26 14:53:19,491] ERROR::(P:30211 T:140318346016576)::web_crawler - Exception at url: http://www.imdb.com/title/tt2319580/vote?v=X;k=
+HTTP Error 403: Forbidden
+[2014-10-26 14:53:19,492] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-amzn-fr&token=BCYrN3Pe9kHOQ0iJpXqDoDzWNrYsskQKTDN5BlrZ2BwDrtQ8FZiOYJ-HcyztVcc92zwigu5UtlxK%0D%0APoKH4Hv5uc_-7Le_2FTeDaVi0Zm65qXHM88sHSvIDBeWbPkHmgSQE3uEbYy3eWl32XJhaSlaZRhA%0D%0AezQgnRAH7LczY8y_8qJvIfCzEvPSjLRUq9l2-7A4YOF7ilHhLg15HeXaidjPLkYTMjiQKMmZVphc%0D%0A0xdhlYOc4R8%0D%0A
+[2014-10-26 14:53:21,825] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/title/tt2910814/vote?v=X;k=
+[2014-10-26 14:53:24,185] ERROR::(P:30211 T:140318346016576)::web_crawler - Exception at url: http://www.imdb.com/title/tt2910814/vote?v=X;k=
+HTTP Error 403: Forbidden
+[2014-10-26 14:53:24,186] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-fb&token=BCYlZ7CjIhsFPC50WgTZSviVw7DTROYNAYoA-3Nok50CcEaN-gsulLfplDpVSZXTpqszDoW5Oc0N%0D%0AWgBEHVQI8y-dUTCXZMvGYOqAlSrjovWwgCZVCMUAeISFXeITYcI_sL33Ky15GwLUEKxTHzJmxDfX%0D%0ATtJ2ZeD75Kjcf89lg4-6kmDGquJUTQ14lWfMbkovw0Ix%0D%0A
+[2014-10-26 14:53:32,207] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-piv&token=BCYvz9fkv2wWOSKoUzql_Np0c2Ohb31CB40CDlq-3LM8aBRNIuDn8v-nydyGJNS62njNjHqKGj_V%0D%0APQFKfsP43dP3cNBdSCNk4TB5bV1pfRLJXxS19PbxzljL6aVmKYAc63Xu2cN3JQzJmkP6kDdc8WXg%0D%0AZd_csicuactp1T-d3CUE9o163Sp7MpVQCKeRFZL4uRB8DbOI9XlTBFG2Vutxwn9MexmZtSUgwSYE%0D%0AOhGO7gOaWaw%0D%0A
+[2014-10-26 14:53:33,795] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-wab&token=BCYsNVKtJl6xfWoUV3jkr4Oh-SUu3-8wxlGCxrTBBtqvHa1_nedGxD9TPkCjTYMp2s5J-pZzO71U%0D%0A8XYUcu8kx0i5zZUJnUFq6DHyUGEJS0v72XYJ1DNiZT9n4eI5673wO3BKjsLkILf-XS7iBx7_mLp9%0D%0A_g6lESF9Pdpnu_6Q5KxO4ShY_luI4ZFN2SiTU99IK2aK%0D%0A
+[2014-10-26 14:53:36,170] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-amzn-in&token=BCYkEyvty3KkBCzYgfzC3kytXhtNXiMQXoZPWzAAXZNqej9xJc0MGP-xoLQdsPlBqDFY3iM5PkBc%0D%0AbGCQQMqT3uN51OXyjVsJvVEgB2WUArtkeFWH7Pb0SXRu48TrqDESIL5rZtTHc9qKxTN6TaKDayp0%0D%0AkcxKWeKA7PH59miMK36Spgbrc_TRUULtGl6649TIcTx6aVTYsyqdR2s8HWIYS4rCEwE3ppJ3YATv%0D%0A1qBCJO_8dHcfmCnYCTHw0eXQ25k89aKg%0D%0A
+[2014-10-26 14:53:39,812] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/title/tt1605717/vote?v=X;k=
+[2014-10-26 14:53:42,068] ERROR::(P:30211 T:140318346016576)::web_crawler - Exception at url: http://www.imdb.com/title/tt1605717/vote?v=X;k=
+HTTP Error 403: Forbidden
+[2014-10-26 14:53:42,069] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/title/tt1179031/vote?v=X;k=
+[2014-10-26 14:53:44,435] ERROR::(P:30211 T:140318346016576)::web_crawler - Exception at url: http://www.imdb.com/title/tt1179031/vote?v=X;k=
+HTTP Error 403: Forbidden
+[2014-10-26 14:53:44,436] INFO::(P:30211 T:140318346016576)::web_crawler - Crawling http://www.imdb.com/offsite/?page-action=ft-amzn-de&token=BCYualVHcIACxsPHSWxECdhM-CeA8bcJJ10fHYk7inb8oZauIPonIJuE3EKU4QQBXBZw4yIsj54Z%0D%0AQtwgtYkbaxZRNbJyYY_xQG9Cfru3evJIspHaFYLA09Tq8bSBP7lhNLlhIZD5G7n8jXdCa0Lnkbom%0D%0AW16adad4koGPG226d9buAk3cOYSpweNEQtyqWiFYPq6uypCkjcThripm3LLWUKdSpKsFRb-uTWVX%0D%0AP9-oICEzIuU%0D%0A

@@ -1,4 +1,6 @@
-__author__ = 'ethan'
+__author__ = 'ethan cheng'
+# CSCE515 Term Project
+# Simple web crawler
 
 from log_settings import LOGGING
 import logging
